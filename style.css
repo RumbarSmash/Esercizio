@@ -1,0 +1,62 @@
+body {
+  background-image: url("background.jpg");
+  background-size: 1920px 1200px;
+}
+
+.Contenitore{
+  border-radius: 20px;
+  margin: auto;
+  width: 65%;
+  height: 700px;
+  background-color: rgba(1,1,1,0.50)
+}
+
+.Contenitore2{
+  margin: auto ;
+  width: 80%;
+}
+
+header{
+  text-align: center;
+}
+
+header h1{
+  color: rgb(127, 252, 3)
+}
+
+header img{
+  width: 400px;
+  height: 150px;
+}
+
+
+#SfondoVerde{
+  text-align: center;
+  background-color: rgb(127, 252, 3);
+  border: 10px solid rgb(127, 252, 3);
+}
+
+.barrarossa{
+  color: red;
+  background-color: red;
+  width: 15%;
+  border-radius: 10px;
+}
+
+.barraverde{
+  color: green;
+  background-color: green;
+  width: 45%;
+  border-radius: 10px;
+}
+
+.barraarancione{
+  color: orange;
+  background-color: orange;
+  width: 25%;
+  border-radius: 10px;
+  }
+
+.ColoreTesto{
+  color: White;
+}
